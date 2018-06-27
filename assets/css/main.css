@@ -1010,6 +1010,12 @@ h1.title {
     right: 3.25rem;
   }
 }
+.list-test {
+  list-style: none;
+  display: block;
+  width: auto;
+}
+
 .columns {
   width: 100%;
   margin: 0 auto;
