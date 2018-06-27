@@ -843,7 +843,8 @@ h1.title {
 }
 #content .inner {
   width: 100%;
-  max-width: 954px;
+  max-width: 1200px;
+  background-color: #efefef;
   padding: 3rem 1.25rem;
   box-sizing: border-box;
   margin: 0 auto;
